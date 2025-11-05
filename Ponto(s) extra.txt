@@ -1,0 +1,16 @@
+Valendo 1 ponto para a prova Hard:
+Criar um sistema bibliotecário, onde:
+
+* somente a administração da biblioteca possa cadastrar novos funcionários;
+* O funcionário tenha que se logar para cadastrar, receber de volta um livro emprestado e até remover livro da biblioteca
+* um usuário possa fazer um cadastro para ter acesso a uma ficha para poder retirar um livro da biblioteca
+
+Todo o programa deve ser feito tanto em interface de console como em interface GUI
+
+Valendo 0,5 pontos na média:
+Criar um programa que seja um livro de questões, onde o usuário selecione o tipo de livro com que vai trabalhar (inglês, português, matemática ou física), e o programa vai trazer as perguntas do livro e o usuário tem que entrar com as respostas, o programa é que vai dizer ao final de cada capítulo quanto de acerto cada usuário teve.
+Para este exercício vocês devem pesquisar um livro (a critério de vocês), de uma das diciplinas acima citadas, e fazer isso com pelo menos 3 capítulos.
+
+
+Para 1 ponto da prova hard vocês devem entregar até 04/11 às 14:45
+Para 0,5 ponto na média vocês deve entregar até o dia 07/11 às 16:50
