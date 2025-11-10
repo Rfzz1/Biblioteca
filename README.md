@@ -30,6 +30,7 @@ Bem vindo ao meu **Sistema de Biblioteca**, um programa em Python que permite o 
 #Tecnologias Utilizadas
 
 - Python
+- MySql
 - Bibliotecas:
   - `time` (para trabalhar com o tempo)
   - `os` (para pausar o programa ao final)
